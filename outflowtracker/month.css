@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #6d6c6c;
+}
+.cat input{
+    width: 300px;
+    height: 40px;
+    font-size:20px;
+    background:#353232;
+    font-family: sans-serif;
+    color: #fff;
+}
+.ele{
+    width: 500px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 60px;  
+}
+.rent{
+    width: 500px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 60px;  
+}
+.sal{
+    width: 500px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 60px;  
+}
+.loan{
+    width: 500px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+
+}
+.others{
+    width: 500px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 60px;  
+}

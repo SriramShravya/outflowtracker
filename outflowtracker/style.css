@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(login.jpg);
+    background-position: center;
+    background-size: cover;
+    height:109vh
+
+}
+header{
+    height: 30px;
+    width:100%;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 150px;
+    font-size: 25px;
+    transition: 0.5s ease-in-out;
+}
+a:hover{
+    color:#3b3737;
+
+}
+#logo{
+    font-family:tahoma;
+    font-size: 35px;
+    font-weight: bolder;
+    color: #fff;
+    margin-right: 700px;
+}
+.main{
+    text-align: center;
+}
+#content{
+    width:500px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    padding: 180px 200px 180px 0px;
+    border-left: 0px;
+    margin-left: 0px;
+    font-size:50px;
+    display:inline-block;
+
+}
+#color{
+    color: #857f7f;
+}
+
+.form{
+    padding: 25px;
+    width:500px;
+    height: 470px;
+    margin-top: 8%;
+    color: #fff;
+    background: linear-gradient(to top,rgba(0,0,0, 0.8)50%,rgba(0,0,0,0.8)50%);
+    display:inline-block;
+
+}
+.form h2{
+    width: 220px;
+    text-decoration: underline;
+    text-align:center;
+    font-size: 40px;
+    padding-left:150px;
+}
+.form input{
+    width: 300px;
+    height: 40px;
+    margin-top: 25px;
+    background: transparent;
+    font-size:20px ;
+    font-family: sans-serif;
+    color: #fff;
+}
+::placeholder{
+    font-family:sans-serif;
+
+
+}
+.form button{
+    width: 145px;
+    height: 30px;
+    background-color: transparent;
+    color:#fff;
+    padding-left: 37px;
+}
+.form p{
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: left;
+}
+.pass{
+    width: 200px;
+    padding-top:70px;
+    margin-right:350px;
+    font-size: 20px;
+    text-decoration: underline;
+    
+}
+.sign{
+    padding-right: 250px;
+    text-decoration: underline;
+    font-size: 20px;
+}

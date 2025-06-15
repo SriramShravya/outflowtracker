@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+    background-color: #857f7f;
+}
+input{
+    width: 300px;
+    height: 40px;
+    font-size:20px;
+    background:#353232;
+    font-family: sans-serif;
+    color: #fff;
+}
+.first{
+    width: 500px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.last{
+    width: 500px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.email{
+    width: 500px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}

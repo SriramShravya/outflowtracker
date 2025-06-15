@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+body{
+    background-color: #6d6c6c;
+}
+header{
+    height: 55px;
+    width:100%;
+
+}
+.head a{
+    font-size: 30px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.head{
+    background-color:#363434;
+    display: flex;
+    color: whitesmoke;
+    font-weight: lighter;
+    font-size: 30px;
+}
+#profile{
+    padding-left: 1175px;
+    padding-right: 100px;
+}
+.head a:hover{
+    color: #857f7f;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+.total{
+    
+    font-size: 45px;
+    text-align: center;
+    height: 300px;
+}
+.cat{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cat a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.cat a:hover{
+    color:#444343;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+.box{
+    border: 2px solid transparent;
+    height:400px;
+    width: 250px;
+    padding: 10px;
+    background-color: #3b3737;
+    color: antiquewhite;
+    font-family: sans-serif;
+    
+}
+.b1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 300px;
+    background-image: url(furniture.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.b2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 300px;
+    background-image: url(veggies.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.b3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 300px;
+    background-image: url(monthly.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.b4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 300px;
+    background-image: url(daily.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+

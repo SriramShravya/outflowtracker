@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-image: url(login.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.fop{
+    padding: 250px;
+    text-align: center;
+
+}
+
+.fop input{
+    height: 40px;
+    font-size: 25px;
+    background-color: rgb(27, 27, 27);
+    color: white;
+
+}
+::placeholder{
+    color: rgb(141, 140, 140);
+}
+button{
+    height: 50px;
+    width: 120px;
+    background-color:black;
+
+}
+a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:#3b3737;
+    transition-duration: 0.5s;
+    transition-timing-function:  ease-in-out;
+
+}
